@@ -1,9 +1,9 @@
-### <div align="center">Hi 👋, I'm H4MSK1 (Moe)</div>  
+### <div align="center">Hi 👋, I’m H4MSK1 (Moe)</div>  
   
 
-- 💼 I'm a passionate fullstack developer from Sweden  
-- 🔭 I’m currently working as a DevOps Engineer  
-- 🌱 I’m currently learning machine learning and Google Cloud professional certification  
+- 💼 I’m a passionate fullstack developer from Sweden.
+- 🔭 I’m currently working as a DevOps Engineer.
+- 🌱 I’m currently learning data science and Google Cloud professional certifications.
 
 <br/>
 
