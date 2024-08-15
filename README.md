@@ -2,7 +2,6 @@
   
 
 - 💼 I’m a passionate fullstack developer from Sweden.
-- 🔭 I’m currently working as a DevOps Engineer.
 - 🌱 I’m currently learning data science and Google Cloud professional certifications.
 
 <br/>
@@ -42,8 +41,7 @@
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="images/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="images/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="images/oracle-original.svg" alt="Oracle" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="images/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="images/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="images/redis-original-wordmark.svg" alt="Redis" height="50" /></a> 
 <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="images/springio-icon.svg" alt="Spring" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="images/nginx-original.svg" alt="Nginx" height="50" /></a>  
 </div>
@@ -62,7 +60,6 @@
 <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="images/powershell.png" alt="PowerShell" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="images/ansible.png" alt="Ansible" height="50" /></a>  
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="images/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="images/grafana.png" alt="Grafana" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="images/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="images/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="images/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
